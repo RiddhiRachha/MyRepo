@@ -4,6 +4,5 @@ you are awesome
 <<<<<<< HEAD
 welcome 
 =======
-welcome to Mumbai
-Mumbai is very popular city
+This change is from feature branch
 >>>>>>> test

@@ -1,6 +1,7 @@
 hello world
-<<<<<<< HEAD
+you are awesome
+=======
 welcome 
 =======
 This change is from feature branch
->>>>>>> test
+

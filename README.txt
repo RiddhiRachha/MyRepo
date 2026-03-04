@@ -1,6 +1,4 @@
 hello world
-Riddhi
-you are awesome
 <<<<<<< HEAD
 welcome 
 =======
